@@ -2,6 +2,8 @@
 
 This website has been migrated from a Drupal 6 installation.
 
+The site is hosted at [http://northwealdairfieldhistory.org](http://northwealdairfieldhistory.org)
+
 ## Todo
 
 ### Navigation bar
