@@ -15,9 +15,9 @@ categories:
 ---
 <strong><font size="2">Join us for The Spirit of North Weald Community Day Fly-in at North Weald Airfield on Sunday 13th September 2009</font size></strong>
 
-<a href="/sites/default/files/documents/Spirit_of_North_Weald_Leaflet.pdf">Spirit of North Weald promotional poster</a>.<img src="/images/pdficon_small.gif">
+<a href="/sites/default/files/documents/Spirit_of_North_Weald_Leaflet.pdf">Spirit of North Weald promotional poster</a>.<img src="{{ site.JB.BASE_PATH }}/images/pdficon_small.gif">
 
-<a href="/images/North_Weald_4_Page_Programme_2copy.jpg">Spirit of North Weald programme information</a>.
+<a href="{{ site.JB.BASE_PATH }}/images/North_Weald_4_Page_Programme_2copy.jpg">Spirit of North Weald programme information</a>.
 
 Featuring F16 Fighters of 132 Wing Royal Norwegian Air Force, flying in from their base at Bodø, north of the Arctic Circle. Returning to the Wing's Second World War (WWII) home, to commemorate the 65th Anniversary of the "birth of today’s Norwegian Air Force" and celebrate their close bond with the local community since 1942.
 
