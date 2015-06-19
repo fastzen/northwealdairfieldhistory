@@ -3,7 +3,7 @@ layout: post
 title: William Blair Pattulo
 created: 1245720875
 categories:
-- World War II
+- World War 2
 - hurricane
 - Chile
 ---

@@ -6,8 +6,8 @@ categories:
 - News
 - tiger
 - Spitfire
-- RAF
-- Hulton–Harrop
+- Royal Air Force
+- Montague Hulton-Harrop
 - Battle of Britain
 - Battle of Barking Creek
 - 74 squadron

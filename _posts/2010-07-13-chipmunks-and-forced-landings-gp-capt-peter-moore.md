@@ -4,7 +4,7 @@ title: Chipmunks and forced landings - Gp. Capt. Peter Moore
 created: 1279025546
 categories:
 - General Topics
-- RAF
+- Royal Air Force
 - No. 614 Volunteer Gliding School
 - MOD Wethersfield
 - Cranwell

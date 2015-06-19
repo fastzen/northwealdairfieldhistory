@@ -4,7 +4,7 @@ title: What to see
 created: 1249519660
 categories:
 - World War
-- RAF
+- Royal Air Force
 - museum
 - Memorial
 - airfield
