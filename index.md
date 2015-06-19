@@ -4,8 +4,6 @@ title: Welcome to North Weald Airfield History
 tagline: The famous Battle of Britain fighter base
 created: 1245464419
 categories:
-- !ruby/string:Sequel::SQL::Blob |-
-  d2VsY29tZQ==
 ---
 {% include JB/setup %}
 
