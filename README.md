@@ -45,3 +45,28 @@ The site is hosted at [http://northwealdairfieldhistory.org](http://northwealdai
             Reference - /content/links#reference
             Media - /content/links#media
             Tourism &amp; Information - /content/links#tourism
+
+### Front page sidebars
+
+    INTERACT WITH US
+        Blog
+        Forum
+        Diary of events
+
+    RECENT BLOG POSTS
+        Battle of Britain 70th Anniversary Fun Day
+        John Freeborn obituary
+        Chipmunks and forced landings - Gp. Capt. Peter Moore
+        "The Battle of Britain" film remembered
+        13th September 2009 - Spirit of North Weald Community Day Fly-in
+        The Royal Norwegian Airforce website mentions North Weald
+        The Magic of Hollywood
+        more - /blog
+
+    NEW FORUM TOPICS
+        Canadian squadrons at RAF North Weald
+        Do you think Sarkozy was trying to hijack the 65th anniversary of D-Day?
+        more - /forum
+
+    SEARCH BY THEME (aka tags)
+        more tags
