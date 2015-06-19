@@ -1,8 +1,4 @@
 ---
-layout: page
-title: RAFA Dining in Eve
-created: 1257859723
-date: 2009-11-10 00:00:00
-categories: []
+layout: refresh
+refresh_to_post_id: /2009/11/10/rafa-dining-in-eve
 ---
-

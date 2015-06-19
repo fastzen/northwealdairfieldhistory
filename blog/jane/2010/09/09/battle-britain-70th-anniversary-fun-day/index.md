@@ -1,12 +1,4 @@
 ---
-layout: post
-title: Battle of Britain 70th Anniversary Fun Day
-created: 1284038675
-date: 2010-09-09 00:00:00
-categories:
-- News
-- Battle of Britain
+layout: refresh
+refresh_to_post_id: /2010/09/09/battle-of-britain-70th-anniversary-fun-day
 ---
-Sunday 12th September 2010 sees the Battle of Britain 70th Anniversary Fun Day at North Weald Airfield.
-
-For more information see the <a href="http://www.eppingforestdc.gov.uk/news/2010/battle_of_britain_70th_anniversary_fun_day.asp">Epping Forest District Council</a> website.

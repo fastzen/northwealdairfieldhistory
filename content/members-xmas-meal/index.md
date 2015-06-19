@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Members Xmas Meal
-created: 1257860202
-date: 2009-11-10 00:00:00
-categories: []
+layout: refresh
+refresh_to_post_id: /2009/11/10/members-xmas-meal
 ---
-Cost £22.50pp

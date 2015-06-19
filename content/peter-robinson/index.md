@@ -1,4 +1,4 @@
 ---
 layout: refresh
-refresh_to_post_id: /content/my-brother-peter-robinson-by-his-sister-jean-porter
+refresh_to_post_id: /2009/06/22/my-brother-peter-robinson-by-his-sister-jean-porter
 ---

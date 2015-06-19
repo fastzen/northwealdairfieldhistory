@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Guest Speaker - Ray Sears - History of Waltham Abbey (8pm The Squadron)
-created: 1249343737
-date: 2009-11-10 00:00:00
-categories: []
+layout: refresh
+refresh_to_post_id: /2009/08/03/guest-speaker-ray-sears-history-of-waltham-abbey-8pm-the-squadron
 ---
-

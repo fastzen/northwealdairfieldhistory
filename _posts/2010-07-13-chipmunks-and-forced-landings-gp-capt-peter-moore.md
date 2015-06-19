@@ -2,7 +2,6 @@
 layout: post
 title: Chipmunks and forced landings - Gp. Capt. Peter Moore
 created: 1279025546
-date: 2010-07-13 12:00:00
 categories:
 - General Topics
 - RAF

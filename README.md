@@ -1,72 +1,78 @@
-# North Weald Airfield History website
+# Jekyll-Bootstrap
 
-This website has been migrated from a Drupal 6 installation.
+The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
-The site is hosted at [http://northwealdairfieldhistory.org](http://northwealdairfieldhistory.org)
+## Usage
 
-## Todo
+For all usage and documentation please see: <http://jekyllbootstrap.com>
 
-### Navigation bar
+## Version
 
-    Home - /
-        History - /content/history
-        People - /content/people
-            Peter Robinson - /content/my-brother-peter-robinson-his-sister-jean-porter
-            William Blair Pattulo - /content/william-blair-pattulo
-        Squadrons - /content/squadrons
-            Squadrons at RAF North Weald - /content/squadrons-0
-            72 Squadron Flypast - /content/72-squadron-flypast
-            Eagle Squadrons - /content/eagle-squadrons
-            Norwegian Squadrons - /content/norwegian-squadrons
-                Norwegian Squadrons&#039; 60th Anniversary - /content/norwegian-squadrons-60th-anniversary
-                Visit to Bodø - /content/visit-bod%C3%B8-main-airbase
-                Norwegian Squadrons&#039; 2006 Visit - /content/norwegian-squadrons-2006-visit
-        World War II - /content/world-war-ii
-            The Battle of Britain - /content/battle-britain
-            The Battle of Barking Creek - /content/battle-barking-creek
-        90th Anniversary - /content/90th-anniversary
-        DVD - /content/north-weald-airfield-dvd
-        Memorial - /content/memorial
-            Debt of Honour - /content/debt-honour
-        Airfield - /content/airfield
-            Airfield Threat - /content/airfield-threat
-            &#039;Spirit of North Weald&#039; Gate Guardian - /content/spirit-north-weald-gate-guardian
-            North Weald Fire Rescue - /content/north-weald-fire-rescue
-            Our Historic Airfield - /content/our-historic-airfield
-            The Squadron - /content/squadron
-        Museum - /content/museum
-            What to see - /content/what-see
-            Location and Contact - /content/location-and-contact
-        Links - /content/links
-            Museums &amp; Attractions - /content/links#museums
-            Clubs &amp; Associations - /content/links#clubs
-            Armed Forces - /content/links#forces
-            Aviation Services - /content/links#services
-            Reference - /content/links#reference
-            Media - /content/links#media
-            Tourism &amp; Information - /content/links#tourism
+0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
 
-### Front page sidebars
+**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
+However, the actual API has not changed at all.
+You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
 
-    INTERACT WITH US
-        Blog
-        Forum
-        Diary of events
+## Milestones
 
-    RECENT BLOG POSTS
-        Battle of Britain 70th Anniversary Fun Day
-        John Freeborn obituary
-        Chipmunks and forced landings - Gp. Capt. Peter Moore
-        "The Battle of Britain" film remembered
-        13th September 2009 - Spirit of North Weald Community Day Fly-in
-        The Royal Norwegian Airforce website mentions North Weald
-        The Magic of Hollywood
-        more - /blog
+[0.4.0](https://github.com/plusjade/jekyll-bootstrap/milestones/v%200.4.0) - next release [ETA 03/29/2015]
 
-    NEW FORUM TOPICS
-        Canadian squadrons at RAF North Weald
-        Do you think Sarkozy was trying to hijack the 65th anniversary of D-Day?
-        more - /forum
+### GOALS
 
-    SEARCH BY THEME (aka tags)
-        more tags
+* No open PRs against master branch.
+* Squash some bugs.
+* Add some new features (low-hanging fruit).
+* Establish social media presence.
+
+
+### Bugs
+
+|Bug |Description
+|------|---------------
+|[#86](https://github.com/plusjade/jekyll-bootstrap/issues/86)  |&#x2611; Facebook Comments
+|[#113](https://github.com/plusjade/jekyll-bootstrap/issues/113)|&#x2611; ASSET_PATH w/ page & post
+|[#144](https://github.com/plusjade/jekyll-bootstrap/issues/144)|&#x2610; BASE_PATH w/ FQDN
+|[#227](https://github.com/plusjade/jekyll-bootstrap/issues/227)|&#x2611; Redundant JB/setup
+
+### Features
+
+|Bug |Description
+|------|---------------
+|[#98](https://github.com/plusjade/jekyll-bootstrap/issues/98)  |&#x2611; GIST Integration
+|[#244](https://github.com/plusjade/jekyll-bootstrap/issues/244)|&#x2611; JB/file_exists Helper
+|[#42](https://github.com/plusjade/jekyll-bootstrap/issues/42)  |&#x2611; Sort collections of Pages / Posts
+|[#84](https://github.com/plusjade/jekyll-bootstrap/issues/84)  |&#x2610; Detecting production mode
+
+### TODOS
+
+Review existing pull requests against plusjake/jekyll-bootstrap:master. Merge or close each.
+
+* Create twitter account. Add link / icon on jekyllbootstrap.com.
+* Create blog posts under plusjade/gh-pages, expose on jekyllbootstrap.com, feed to twitter account.
+* Announce state of project, announce roadmap(s), announce new versions as they’re released.
+
+## Contributing
+
+
+To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
+This is very important as it allows me to accept your pull request without having to publish a public version release.
+
+Small, atomic Features, bugs, etc.
+Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
+Please rebase as often as possible when working.
+Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
+
+For Big Features or major API extensions/edits:
+This is the one case where I'll accept pull-requests based off the master branch.
+This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
+Translation : it might take a bit longer so please be patient! (but sincerely thank you).
+
+**Jekyll-Bootstrap Documentation Website.**
+
+The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)

@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Hummingbirds 40's Evening
-created: 1257859573
-date: 2009-11-10 00:00:00
-categories: []
+layout: refresh
+refresh_to_post_id: /2009/11/10/hummingbirds-40s-evening
 ---
-Tickets £9.50

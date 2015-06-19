@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Film Evening - "Catch 22"
-created: 1257859651
-date: 2009-11-10 00:00:00
-categories: []
+layout: refresh
+refresh_to_post_id: /2009/11/10/film-evening-catch-22
 ---
-

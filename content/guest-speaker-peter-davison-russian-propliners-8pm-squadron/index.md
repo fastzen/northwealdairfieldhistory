@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Guest Speaker - Peter Davison - Russian Propliners (8pm The Squadron)
-created: 1257860396
-date: 2009-11-10 00:00:00
-categories: []
+layout: refresh
+refresh_to_post_id: /2009/11/10/guest-speaker-peter-davison-russian-propliners-8pm-the-squadron
 ---
-

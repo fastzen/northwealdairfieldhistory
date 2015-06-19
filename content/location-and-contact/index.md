@@ -1,12 +1,4 @@
 ---
-layout: page
-title: Location and contact
-created: 1245732920
-date: 2009-06-22 00:00:00
-categories:
-- transport
-- map
-- address
+layout: refresh
+refresh_to_post_id: /2009/06/22/location-and-contact
 ---
-<strong>Open:</strong><br />We are open every Saturday, Sunday and Bank Holidays from early April till the end of November - 12noon till 5pm, last entry 4pm.&nbsp;  Organized group visits are welcome at other times, by prior arrangement. Access to the airfield is restricted, although group tours can be arranged subject to sufficient notice and the airfield manager&rsquo;s agreement.<br /><br /><strong>Admission:</strong><br />&pound;2.00, &pound;1.50 for Concessions, &pound;12.50 for Annual Membership <br /><br />The museum is a charitable trust dependent on income from membership, entry and donations.</p><br />
-<p><strong>Contact Details:</strong><br />Ad Astra House, 6 Hurricane Way, North Weald, Essex, CM16 6AA.<br />  Telephone: 01992 523010 (24 hour answerphone).<br /> Email: office@northwealdairfieldmuseum.com<br />  Website: www.northwealdairfieldmuseum.com<br /><br /> <strong>Access:</strong><br />By road<br />North Weald is on the B181 Epping to Ongar road, north east of Epping and south east of Junction 7 of the M11 - Ad Astra House is on Hurricane Way (the former entrance to the airfield), accessed via North Weald Village, and not the present Airfield entrance. &nbsp;&nbsp;&nbsp; <br /><br />By Public transport<br />Buses 381, 382, 500 or 501 from Epping, Harlow and Ongar.  For bus information go to the <a href="http://www.arrivabus.co.uk/default.aspx">Arriva</a> website.<br />London Underground Central Line station at Epping (then bus).  For London Underground information go to the <a href="http://www.tfl.gov.uk/modalpages/2625.aspx">Transport for London</a> website.<br />Harlow Railway station (then bus).  For rail information go to the <a href="http://www.nationalrail.co.uk">National Rail Enquiries</a> website.<br /> </p>     <p><iframe height="350" frameborder="0" width="425" scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=north+weald+airfield+museum+cm16&amp;sll=51.721073,0.165997&amp;sspn=0.052427,0.127716&amp;g=north+weald+cm16&amp;ie=UTF8&amp;ll=51.71335,0.156727&amp;spn=0.004653,0.00912&amp;z=16&amp;iwloc&output=embed" marginwidth="0" marginheight="0"></iframe><br /><small><a style="color: rgb(0, 0, 255); text-align: left;" href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=north+weald+airfield+museum+cm16&amp;sll=51.721073,0.165997&amp;sspn=0.052427,0.127716&amp;g=north+weald+cm16&amp;ie=UTF8&amp;ll=51.71335,0.156727&amp;spn=0.004653,0.00912&amp;z=16">View Larger Map</a></small>  &nbsp;</p><p>&nbsp;</p><p><br /><br />

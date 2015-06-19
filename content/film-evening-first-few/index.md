@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Film Evening - "The First Of The Few"
-created: 1257860146
-date: 2009-11-10 00:00:00
-categories: []
+layout: refresh
+refresh_to_post_id: /2009/11/10/film-evening-the-first-of-the-few
 ---
-

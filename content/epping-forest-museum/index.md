@@ -1,10 +1,4 @@
 ---
-layout: post
-title: Epping Forest Museum
-created: 1245786215
-date: 2009-06-23 00:00:00
-categories:
-- museum
-- Essex
+layout: refresh
+refresh_to_post_id: /2009/06/23/epping-forest-museum
 ---
-<p>If you are interested in other local museums visit the <a href="http://www.eppingforestdc.gov.uk/leisure_and_culture/museum">Epping Forest District Museum</a></p>

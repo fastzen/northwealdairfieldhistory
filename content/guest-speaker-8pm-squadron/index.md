@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Guest speaker (8pm The Squadron)
-created: 1249337177
-date: 2009-11-10 00:00:00
-categories: []
+layout: refresh
+refresh_to_post_id: /2009/08/03/guest-speaker-8pm-the-squadron
 ---
-The Squadron welcomes a special guest speaker.
